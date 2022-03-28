@@ -1,6 +1,6 @@
 # Disney+ Clone
 
-Sign In and explore your favorite movies in this Disney+ App!
+Login and explore your favorite movies in this Disney+ App!
 
 - Check out this pixel perfect Disney+ clone
 - Log onto your account using Google Authentication
