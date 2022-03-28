@@ -16,6 +16,7 @@ Live Demo [here!](https://disney-clone-3835b.web.app/)
 - [Firebase](https://firebase.google.com/) (Authentication & Database)
 - [Styled Components](https://styled-components.com/)
 - [Slick Carrousel](http://kenwheeler.github.io/slick/)
+- <a href="http://reactjs.org" target="_blank">React</a>
 
 
 ## Local Development
