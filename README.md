@@ -9,7 +9,6 @@ Login and explore your favorite movies in this Disney+ App!
 
 Live Demo [here!](https://disney-clone-3835b.web.app/)
 
-![preview img](/preview.png)
 
 ### Built with
 
