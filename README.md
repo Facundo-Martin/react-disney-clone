@@ -1,4 +1,4 @@
-# Disney+ Clone    <img align="left" alt="Covid" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" style="padding-right:10px;" />
+# Disney+ Clone    <img align="left" alt="Covid" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" style="padding-right:10px;" />
 
 Login and explore your favorite movies in this Disney+ App!
 
